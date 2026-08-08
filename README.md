@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harsh%20Bhardwaj&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Undergraduate%20%7C%20Data%20Analyst%20%7C%20Full%20Stack%20%26%20ML%20Enthusiast&descAlignY=58&descSize=16&animation=fadeIn&v=1" alt="Header" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Student;Data+Analyst+%7C+Machine+Learning;Full-Stack+Developer+(React,+FastAPI,+Node.js);DSA+Enthusiast" alt="Typing SVG" />
-</a>
 
 <br/>
 
@@ -155,8 +152,6 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="metrics.svg" alt="GitHub metrics" width="100%" />
 
 <br/><br/>
 
