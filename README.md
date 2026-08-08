@@ -24,23 +24,19 @@
 
 ## 👋 About Me
 
-I'm **Harsh Bhardwaj**, a B.Tech Computer Science student at KIET Group of Institutions (2023-2027). I am passionate about data analytics, machine learning, and building robust full-stack applications.
+I'm **Harsh Bhardwaj**, a final-year B.Tech Computer Science undergraduate at **KIET Group of Institutions (2023–2027)**. I’m passionate about **data analytics, machine learning, and building full-stack applications** that solve real-world problems.
 
-Beyond coding, I actively explore developer tools and emerging technologies that help engineers work smarter. I believe productivity and problem-solving efficiency are as important as technical skills, so I continuously adopt tools that optimize development, debugging, and deployment processes.
+I enjoy transforming complex ideas into scalable, practical solutions and continuously improving my software engineering skills. My current focus is on strengthening backend development, database design, analytics, and machine learning fundamentals while keeping a consistent DSA practice routine.
 
-Currently, I'm focused on strengthening my backend development, database design, machine learning fundamentals, and analytical skills while maintaining a consistent practice routine in Data Structures & Algorithms.
-
-- 🌱 Strengthening my skills in Data Analytics, Machine Learning, and System Design
-- 💻 Building applications and models with **Python, React, FastAPI, Node.js, SQL, and XGBoost**
-- 🧩 Practicing DSA on **LeetCode (400+ problems solved)**
-- 🎯 Preparing for **Data Analytics, Data Engineering, and SDE** roles
+- 🌱 Strengthening my skills in **Data Analytics, Machine Learning, and System Design**
+- 💻 Building projects with **Python, React, FastAPI, Node.js, SQL, and XGBoost**
+- 🧩 Practicing DSA on **LeetCode** and competitive problem-solving platforms
+- 🎯 Preparing for **Data Analytics, Data Engineering, and SDE** opportunities
 - 📍 Based in **Ghaziabad, Uttar Pradesh, India**
 
 <br/>
 
 ## 🎓 Education
-
-<div align="center">
 
 | Qualification | Institution | Duration | Score |
 |---|---|---|---|
@@ -48,18 +44,16 @@ Currently, I'm focused on strengthening my backend development, database design,
 | **Class XII (CBSE)** | Kendriya Vidyalaya O.F.M. | 2022 - 2023 | 91.33% |
 | **Class X (CBSE)** | Kendriya Vidyalaya O.F.M. | 2020 - 2021 | 96.83% |
 
-</div>
-
 <br/>
 
 ## 💼 Experience
 
 ### Data Analyst Intern | Serenico Labs *(May 2026 – June 2026)*
-- Analyzed datasets using Python, SQL, and Excel to extract actionable insights for business decision-making.
-- Performed data cleaning, preprocessing, and feature engineering on real-world datasets.
-- Worked on datasets including Performance Report of Project, Monetization Data, Player Behavioral Data, and Customer Support Data.
-- Extracted insights on stability, user experience, profitability, optimization strategies, engagement, and drop-off, resolving satisfaction.
-- Used Tableau to generate comprehensive reports.
+- Analyzed datasets using **Python, SQL, and Excel** to derive actionable insights.
+- Performed **data cleaning, preprocessing, and feature engineering** on real-world business data.
+- Worked with project performance, monetization, player behavior, and customer support datasets.
+- Extracted insights around stability, engagement, optimization, drop-offs, and user satisfaction.
+- Created business reports and dashboards using **Tableau**.
 
 <br/>
 
@@ -82,10 +76,10 @@ Currently, I'm focused on strengthening my backend development, database design,
 
 | Category | Stack |
 |---|---|
-| **Core Analytics** | Problem Solving, Mathematics, Data Collection and Handling, Data Visualization, Data Preprocessing |
+| **Core Analytics** | Problem Solving, Mathematics, Data Collection, Data Visualization, Data Preprocessing |
 | **Languages** | Python, C/C++, SQL, JavaScript |
 | **Libraries & Frameworks** | React, FastAPI, Pandas, NumPy, Matplotlib, XGBoost, SHAP, LIME, Express, Node.js |
-| **CS Fundamentals** | DSA, OOPs, RDBMS, Computer Networks, Operating Systems |
+| **CS Fundamentals** | DSA, OOPs, RDBMS, DBMS, Computer Networks, Operating Systems |
 | **Tools & Platforms** | Git/GitHub, Colab, Jupyter Notebook, VS Code, Tableau, Excel, MySQL, MongoDB, Linux |
 
 <br/>
@@ -93,42 +87,68 @@ Currently, I'm focused on strengthening my backend development, database design,
 ## 🚀 Featured Projects
 
 ### 🏛️ Public Sentiment Analysis of Government Ministries
-> Developing a system to analyze public opinion on government policies by fine-tuning the RoBERTa transformer model on a custom-built dataset.
-- Built a secure platform with role-based access control using authentication methods, leveraging FastAPI for RESTful APIs and backend services.
-- Collected and analyzed data from YouTube comments via web scraping using Google APIs with translation and filtering pipelines.
-- Used MongoDB for efficient storage, retrieval, and management of datasets.
-- Designed a simple and responsive user interface using React.
+> A full-stack analytics platform to study public opinion on government policies by fine-tuning a RoBERTa-based model on a custom dataset.
+
+- Built a secure application with **role-based access control** and **FastAPI** backend services.
+- Collected and cleaned data from **YouTube comments** using scraping and translation pipelines.
+- Stored and managed datasets efficiently using **MongoDB**.
+- Designed a clean and responsive interface with **React**.
 
 ---
 
 ### 📈 Real-Time Paper Trading & Portfolio Simulation Platform
-> A full-stack stock trading simulator enabling users to trade with virtual funds and monitor live portfolio performance.
-- Developed using React, Node.js, Express, PostgreSQL, and WebSockets.
-- Engineered financial transaction logic with SQL transactions, row-level locks, immutable ledgers, and decimal-based money calculations to ensure correctness under concurrent order execution.
-- Built real-time market data streaming, market/limit order execution, leaderboard ranking, portfolio analytics, JWT authentication, and reset/liquidation workflows.
+> A full-stack stock trading simulator that allows users to trade with virtual funds and monitor live portfolio performance.
+
+- Developed using **React, Node.js, Express, PostgreSQL, and WebSockets**.
+- Implemented correct financial transaction logic with **SQL transactions, row-level locks, immutable ledger design, and decimal-based calculations**.
+- Built market data streaming, order execution, leaderboard analytics, JWT authentication, and reset/liquidation workflows.
 
 ---
 
 ### 🏦 Explainable Loan Approval Engine
-> A machine learning model to predict loan approval status using real-world applicant data.
-- Trained an XGBoost classifier with hyperparameter tuning and class imbalance handling on real-world data.
-- Integrated SHAP and LIME to provide model interpretability and explain predictions.
-- Developed a simple, responsive web application with FastAPI and React.
+> A machine learning project for predicting loan approval status using real-world applicant data.
+
+- Trained an **XGBoost classifier** with hyperparameter tuning and imbalance handling.
+- Integrated **SHAP** and **LIME** for model explainability.
+- Built a responsive web application using **FastAPI + React**.
 
 <br/>
 
-## 🏆 Achievements & Certifications
+## 🏆 Competitive Programming
 
-### Achievements
-- 🎓 **Qualified GATE 2026**
-- 💻 **Solved 400+ problems** on LeetCode
-- 🏅 **Smart India Hackathon (SIH) 2025:** Cleared institute-level and got waitlisted for the finale
+| LeetCode | Codeforces | CodeChef | GeeksforGeeks | Code360 | HackerRank |
+| --- | --- | --- | --- | --- | --- |
+| 400+ Problems | Practice | Practice | Practice | Practice | Practice |
 
-### Certifications
+<br/>
+
+## 💡 Areas of Interest
+
+- 🧩 **Data Structures & Algorithms**
+- 🌳 **Trees & Graphs**
+- ⚡ **Dynamic Programming**
+- 🎯 **Greedy Algorithms**
+- 🔄 **Recursion & Backtracking**
+- 🔢 **Bit Manipulation**
+- 🧮 **Number Theory**
+
+<br/>
+
+## 📜 Certifications
+
+- ☁️ **AWS Cloud Practitioner** – Amazon
 - 🍃 **Introduction to MongoDB** – MongoDB, Inc.
 - 🛢️ **Database Programming with SQL** – Oracle
--    **AWS Cloud Practitioner** - Amazon
--    **Docker Essentials** -IBM
+- 🧠 **Docker Essentials** – IBM
+
+<br/>
+
+## 🎯 Current Goals
+
+- 🚀 Build more **production-ready full-stack applications**
+- 🏗️ Strengthen **backend development and system design**
+- 🧩 Solve advanced **DSA problems consistently**
+- 💼 Prepare for **Data Analyst / Data Engineer / SDE** opportunities
 
 <br/>
 
@@ -136,7 +156,7 @@ Currently, I'm focused on strengthening my backend development, database design,
 
 <div align="center">
 
-<img src="metrics.svg" alt="Metrics" width="100%" />
+<img src="metrics.svg" alt="GitHub metrics" width="100%" />
 
 <br/><br/>
 
@@ -171,6 +191,16 @@ Currently, I'm focused on strengthening my backend development, database design,
 
 <br/>
 
+## 📐 GitHub Metrics
+
+<div align="center">
+
+<img src="metrics.svg" alt="GitHub metrics overview" width="100%" />
+
+</div>
+
+<br/>
+
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -187,6 +217,6 @@ Currently, I'm focused on strengthening my backend development, database design,
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" />
 
 </div>
