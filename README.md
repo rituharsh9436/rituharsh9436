@@ -152,16 +152,16 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 <div align="center">
 
-<br/><br/>
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=rituharsh9436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
 
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=rituharsh9436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rituharsh9436&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rituharsh9436&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<br/><br/>
+  <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=rituharsh9436&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=rituharsh9436&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
 
 </div>
+
 
 <br/>
 
