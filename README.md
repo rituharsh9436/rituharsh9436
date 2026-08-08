@@ -70,10 +70,12 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23ffffff.svg?style=for-the-badge&logo=XGBoost&logoColor=white)
-![SHAP](https://img.shields.io/badge/SHAP-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
-![LIME](https://img.shields.io/badge/LIME-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 </div>
 
 | Category | Stack |
@@ -116,13 +118,7 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 <br/>
 
-## 🏆 Competitive Programming
-
-
-
-<br/>
-
-## 💡 Areas of Interest
+## 🏆 Competitive Programming and 💡 Areas of Interest
 
 - 🧩 **Data Structures & Algorithms**
 - 🌳 **Trees & Graphs**
