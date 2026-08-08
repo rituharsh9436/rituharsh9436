@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" viewBox="0 0 600 400">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1e1b4b" />
+    </linearGradient>
+    <radialGradient id="glow" cx="0%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
+    </radialGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="10" stdDeviation="15" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+  </defs>
+
+  <rect width="600" height="400" fill="url(#bgGrad)" rx="20" />
+  <rect width="600" height="400" fill="url(#glow)" rx="20" />
+
+  <!-- Mac Window -->
+  <rect x="50" y="60" width="500" height="280" rx="12" fill="#1e293b" filter="url(#shadow)" stroke="rgba(255,255,255,0.05)" stroke-width="1" />
+  
+  <!-- Title bar -->
+  <path d="M 50 72 Q 50 60 62 60 L 538 60 Q 550 60 550 72 L 550 95 L 50 95 Z" fill="rgba(255,255,255,0.03)" />
+  <circle cx="75" cy="77" r="6" fill="#ef4444" />
+  <circle cx="95" cy="77" r="6" fill="#eab308" />
+  <circle cx="115" cy="77" r="6" fill="#22c55e" />
+  <text x="300" y="82" font-family="-apple-system, sans-serif" font-size="13" fill="#64748b" text-anchor="middle">harsh.dev</text>
+
+  <!-- Code -->
+  <g font-family="Consolas, Monaco, 'Courier New', monospace" font-size="15" transform="translate(80, 130)">
+    <text y="0">
+      <tspan fill="#c084fc">const</tspan>
+      <tspan fill="#60a5fa"> developer</tspan>
+      <tspan fill="#ffffff"> = {</tspan>
+    </text>
+    <text y="35">
+      <tspan fill="#22d3ee" x="25">name:</tspan>
+      <tspan fill="#a3e635"> "Harsh Bhardwaj"</tspan>
+      <tspan fill="#ffffff">,</tspan>
+    </text>
+    <text y="70">
+      <tspan fill="#22d3ee" x="25">stack:</tspan>
+      <tspan fill="#a3e635"> "React, Node, Python"</tspan>
+      <tspan fill="#ffffff">,</tspan>
+    </text>
+    <text y="105">
+      <tspan fill="#22d3ee" x="25">focus:</tspan>
+      <tspan fill="#a3e635"> "Data &amp; Full-Stack"</tspan>
+    </text>
+    <text y="140" fill="#ffffff">}</text>
+    <text y="185" fill="#64748b">// building, one commit at a time</text>
+    <!-- cursor -->
+    <rect x="0" y="195" width="10" height="18" fill="#06b6d4">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>
