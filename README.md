@@ -136,6 +136,10 @@ Currently, I'm focused on strengthening my backend development, database design,
 
 <div align="center">
 
+<img src="metrics.svg" alt="Metrics" width="100%" />
+
+<br/><br/>
+
 <img height="165" src="https://github-stats-extended.vercel.app/api?username=rituharsh9436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
 <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rituharsh9436&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
