@@ -70,10 +70,10 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23ffffff.svg?style=for-the-badge&logo=XGBoost&logoColor=black)
-![SHAP](https://img.shields.io/badge/SHAP-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
-![LIME](https://img.shields.io/badge/LIME-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-%23ffffff.svg?style=for-the-badge&logo=XGBoost&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
+![LIME](https://img.shields.io/badge/LIME-%23ffffff.svg?style=for-the-badge&logo=python&logoColor=white)
 </div>
 
 | Category | Stack |
