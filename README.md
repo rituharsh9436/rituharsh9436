@@ -192,7 +192,8 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 <div align="center">
 
-<img src="metrics.svg" alt="GitHub metrics overview" width="100%" />
+
+<img src="https://raw.githubusercontent.com/rituharsh9436/rituharsh9436/master/metrics.svg" alt="GitHub metrics overview" width="100%" />
 
 </div>
 
