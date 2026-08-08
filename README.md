@@ -117,9 +117,7 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 ## 🏆 Competitive Programming
 
-| LeetCode | Codeforces | CodeChef | GeeksforGeeks | Code360 | HackerRank |
-| --- | --- | --- | --- | --- | --- |
-| 400+ Problems | Practice | Practice | Practice | Practice | Practice |
+
 
 <br/>
 
