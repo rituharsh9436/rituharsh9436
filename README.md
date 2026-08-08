@@ -154,7 +154,9 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=rituharsh9436&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Harsh's GitHub stats" />
 
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rituharsh9436&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165"
+     src="https://github-stats-extended.vercel.app/api/top-langs/?username=rituharsh9436&layout=compact&theme=tokyonight&hide_border=true&exclude=HTML"
+     alt="Top languages" />
 
   <br/><br/>
 
