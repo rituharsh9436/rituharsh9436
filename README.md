@@ -182,7 +182,6 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 </div>
 
 
-
 <br/>
 
 ## 📈 Activity Graph
@@ -193,7 +192,7 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 </div>
 
-<br/>
+<br/> <br/>
 
 ## 💛 LeetCode Stats
 
