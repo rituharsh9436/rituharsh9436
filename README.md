@@ -9,8 +9,6 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=rituharsh9436&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
-
 <br/><br/>
 ## 🚀 My Portfolio
 
