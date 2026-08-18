@@ -73,7 +73,7 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,mongodb,mysql,postgres,fastapi,git,github,vscode,linux&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=cpp,py,js,react,nodejs,express,mongodb,mysql,postgres,fastapi,Docker,git,github,vscode,linux&theme=dark" alt="Tech stack icons" />
 
 <br/><br/>
 
