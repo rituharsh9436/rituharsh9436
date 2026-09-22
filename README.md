@@ -99,7 +99,7 @@ I enjoy transforming complex ideas into scalable, practical solutions and contin
 ## 🚀 Featured Projects
 
 ### 🏛️ Public Sentiment Analysis of Government Ministries
-> A full-stack analytics platform to study public opinion on government policies by fine-tuning a RoBERTa-based model on a custom dataset.
+> A full-stack analytics platform to study public opinion on government policies by fine-tuning a Muril-based model on a custom dataset.
 
 - Built a secure application with **role-based access control** and **FastAPI** backend services.
 - Collected and cleaned data from **YouTube comments** using scraping and translation pipelines.
